@@ -1,5 +1,5 @@
-Dave Caacoy - Aspiring Full-Stack Web Developer and Graphics Designer
-I'm Dave Caacoy, an aspiring full-stack web developer and graphics designer with a passion for NFTs and game development. Currently, I'm working on NFT projects and serving as the game lead for a side hustle gaming company. As a graduating IT student, I've gained valuable experience in web3 and e-commerce projects, showcasing my versatility across various technologies.Feel free to reach out for collaboration or just to say hi!
+
+I'm Dave Caacoy, <br> an aspiring full-stack web developer and graphics designer with a passion for NFTs and game development. Currently, I'm working on NFT projects and serving as the game lead for a side hustle gaming company. As a graduating IT student, I've gained valuable experience in web3 and e-commerce projects, showcasing my versatility across various technologies.Feel free to reach out for collaboration or just to say hi!
 
 Keep exploring, keep coding! 🌟
 
