@@ -1,35 +1,5 @@
-# Hi there! 👋
-
-I'm Dave Caacoy, a passionate Aspiring Fullstack Dev and Graphic Designer/artist who loves coding and building cool projects.
-
-## 🚀 Projects
-
-### Project 1: [Project Name]
-Description: Brief description of the project.
-GitHub: [Link to GitHub Repository]
-
-### Project 2: [Project Name]
-Description: Brief description of the project.
-GitHub: [Link to GitHub Repository]
-
-## 💻 Skills
-
-- Skill 1
-- Skill 2
-- Skill 3
-
-## 🏆 Achievements
-
-- Achievement 1
-- Achievement 2
-
-## 📫 Contact Me
-
-Feel free to reach out for collaboration or just to say hi!
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-
----
+Dave Caacoy - Aspiring Full-Stack Web Developer and Graphics Designer
+I'm Dave Caacoy, an aspiring full-stack web developer and graphics designer with a passion for NFTs and game development. Currently, I'm working on NFT projects and serving as the game lead for a side hustle gaming company. As a graduating IT student, I've gained valuable experience in web3 and e-commerce projects, showcasing my versatility across various technologies.Feel free to reach out for collaboration or just to say hi!
 
 Keep exploring, keep coding! 🌟
 
