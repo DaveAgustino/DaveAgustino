@@ -6,20 +6,14 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=0077B5&width=600&lines=Aspiring+Full-Stack+Web+Developer;Graphics+Designer;NFT+Enthusiast;Game+Developer)
 
-A highly motivated and creative recent BS in Information Technology graduate from Kananga, Leyte, Philippines, with a strong foundation in frontend and a growing proficiency in backend development. Passionate about building user-centric web applications and creating engaging digital experiences, with a keen interest in NFTs and game development. 💻🎨🎮
+A highly motivated and creative recent BS in Information Technology graduate with a strong foundation in frontend and a growing proficiency in backend development. Passionate about building user-centric web applications and creating engaging digital experiences, with a keen interest in NFTs and game development as well to graphics and design. 💻🎨🎮
 
 - 🏆 Awarded "Best in Thesis Capstone" for a web-based resolution and ordinance archiving system.
 - 🎮 Game Design Lead for "HEROES UPRISING" (Web3 Gaming).
-- 🌐 Contributor to Web3 projects (PumpSeeker, Affinity).
+- 🌐 Contributor to Web3 projects.
 - 💼 Actively seeking challenging Web Developer/Designer roles.
 - 💡 [Learn more about me](https://linkedin.com/in/davecaaacoy).
 
-## 🧑‍💻 Selected Projects
-
-- [PumpSeeker Waitlist Landing Page](https://v2pumpseeker-waitlist.vercel.app/)
-- [Zink Waitlist Form](https://zink-waitlist.vercel.app/)
-- [Affinity Web3 Platform](https://affinity-web3.vercel.app/)
-- [Goshen DAO Landing Page](https://goshen-dao-landingpage.vercel.app/)
 
 ## 🔧 Technologies
 
