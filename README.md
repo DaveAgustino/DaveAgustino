@@ -1,7 +1,8 @@
-# 👋 Dave Caacoy (💻🎨🎮)
+# 👋 Dave Agustin Caacoy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davecaaacoy)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaveAgustino)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/daveagcaacoy)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=0077B5&width=600&lines=Aspiring+Full-Stack+Web+Developer;Graphics+Designer;NFT+Enthusiast;Game+Developer)
 
