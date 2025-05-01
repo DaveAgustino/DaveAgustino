@@ -1,4 +1,4 @@
-Hi, I'm Dave Caacoy, a recent IT graduate and aspiring full-stack web developer with a creative edge in graphics design, NFTs, and game development. As the former Game Lead for "HEROES UPRISING" and a contributor to various Web3 and e-commerce projects (like those for PumpSeeker and Affinity Web3), I bring a versatile skillset to building user-centric digital experiences. Let's connect!
+Hey, I'm Dave Caacoy, a versatile aspiring full-stack web developer and graphics designer with hands-on experience in both traditional Web2 development and the cutting-edge world of Web3, with a strong interest in crypto games, NFTs, and DeFi. As the former Game Lead for a Web3 gaming company and a contributor to various Web2 and Web3 projects (such as the PumpSeeker waitlist and Affinity Web3), I bring a unique blend of skills to the table. I'm excited to collaborate on innovative projects in either space!
 
 Keep exploring, keep coding! 🌟
 
